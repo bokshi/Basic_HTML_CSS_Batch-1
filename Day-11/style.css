@@ -1,0 +1,68 @@
+body {
+	background-color: #ccc;
+}
+
+.simple_text {
+	color: #ff0;
+	font-size: 20px;
+	text-align: center;
+}
+
+#simple_text {
+	color: green;
+}
+
+.pepsi_text {
+	color: #f00;
+	font-family: "! PEPSI !";
+	font-size: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+body {
+	background-color: #ccc;
+}
+
+h1 {
+	color: #f00;
+	font-family: "! PEPSI !";
+	font-size: 20px;
+	text-align: center;
+}
+
+p {
+	border: 1px solid blue;
+	text-align: right;
+}
+
+a {
+	border: 1px solid red;
+	
+}
+
+b {
+	color: red;
+}
+
+strong {
+	color: green;
+}
+
+*/
